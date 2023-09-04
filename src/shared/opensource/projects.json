@@ -1,0 +1,151 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Orbi-Journey KaiOS",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://github.com/ashutosh1919/masterPortfolio",
+      "description": "📱  KaiOS is a web-based mobile operating system that enables a new category of smart feature phones. It is forked from B2G (Boot to Gecko), a successor of the discontinued Firefox OS. It has an optimized user interface for smart feature phones, needs little memory, and consumes less energy than other operating systems.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "ReactJs",
+          "iconifyClass": "logos-react"
+        }
+        
+       
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "InnInc-iQConnect",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "https://github.com/ashutosh1919/explainable-cnn",
+      "description": "This is a Robust, flexible, and extensible framework application with an intuitive test case for common areas throughout the product life cycle. This test automation framework can be used for different test applications. Adding test cases through Azure, Jira, Excel, Multi execution, multi-device testing, and report generation",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Angular",
+          "iconifyClass": "logos-angular"
+        }
+        
+       
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "InnInc-ANPR",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+      "description": " 📷 The project involves developing an Automatic Number Plate Recognition (ANPR) system that utilizes image processing, machine learning, and optical character recognition (OCR) techniques. It enables automated detection, recognition, and analysis of license plates for various applications, including traffic monitoring, toll collection, and law enforcement.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Vue js",
+          "iconifyClass": "logos-vue"
+        },
+        {
+          "name": "Node js",
+          "iconifyClass": "logos-nodejs"
+        }
+        
+       
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Nymi-xoriant",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+      "description": " Security, privacy, and user experience.The Nymi connected worker solution unlocks the benefits of digital transformation with all three.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React js",
+          "iconifyClass": "logos-react"
+        }
+       
+        
+       
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "InnInc-WorkerSafety",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+      "description": " 📷 Our innovative solution is designed to create a safer work environment by actively monitoring and addressing potential safety breaches. This system utilizes state-of-the-art image processing, machine learning algorithms, and real-time optical character recognition (OCR) capabilities to achieve its objectives.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Angular",
+          "iconifyClass": "logos-angular"
+        }
+        
+       
+      ]
+    }
+  ]
+}
+
+
